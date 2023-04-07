@@ -6,6 +6,11 @@
 
 `pip install flask_cors`
 
+`pip insatll pyopenssl`
+
+SSL 자체 인증 받는법[https://blog.miguelgrinberg.com/post/running-your-flask-application-over-https]
+
+
 ### Main js code
 
 ```js
