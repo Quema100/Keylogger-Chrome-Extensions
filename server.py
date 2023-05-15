@@ -12,4 +12,4 @@ def log():
     return '', 204
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8080 ,debug=True,ssl_context='adhoc') # ssl 임시 인증
+    app.run(host='0.0.0.0', port=8080 ,debug=True,ssl_context='adhoc') # ssl 임시 인증 + 8080 포트 오픈
